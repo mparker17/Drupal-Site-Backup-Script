@@ -1,0 +1,4 @@
+# Ignore any backups
+srv/webbackupd/backups/database/
+srv/webbackupd/backups/filesystem/
+
